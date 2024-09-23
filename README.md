@@ -1,9 +1,5 @@
 # Project2-Compose
 
-Here’s a suggested **README.md** file for your project that explains the purpose of the repository, how to set it up, and how to use the Jenkins pipeline you’ve created:
-
----
-
 # AWS Elastic Beanstalk Express.js Sample Application
 
 This is a sample **Node.js (Express)** application designed for deployment on **AWS Elastic Beanstalk**. It demonstrates the basic structure of a Node.js app and includes the setup for Continuous Integration/Continuous Deployment (CI/CD) using **Jenkins**.
